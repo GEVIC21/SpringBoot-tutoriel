@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.easybytes</groupId>
-    <artifactId>spring_security_section2</artifactId>
+    <artifactId>spring_security_section3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_security_section2</name>
-    <description>spring_security_section2</description>
+    <name>spring_security_section3</name>
+    <description>spring_security_section3</description>
     <url/>
     <licenses>
         <license/>
